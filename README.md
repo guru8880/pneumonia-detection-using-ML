@@ -1,4 +1,9 @@
 # Explainable Pneumonia Detection from Chest X-Rays
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3a56ccf2%2c100%3a2f80ed&height=230&section=header&text=Pneumonia+Detection&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Medical+Imaging+%7c+CNN+%7c+Chest+X-Ray+AI&descSize=16&descAlignY=55&animation=fadeIn" alt="Pneumonia Detection project banner" width="100%" />
+</p>
+
+<p align="center"><em>Project-themed banner generated from an internet-hosted image service for a cleaner GitHub presentation.</em></p>
 
 A deep learning project that classifies chest X-ray images and generates visual explanations with SHAP and LIME.
 
